@@ -54,7 +54,10 @@ Final Multi-class Prediction
 
 # Dataset
 
-The wildfire dataset contains **5 image classes** related to fire and smoke conditions.
+The wildfire dataset contains **5 classes** related to fire and smoke conditions.
+
+Dataset link:
+https://www.kaggle.com/datasets/elmadafri/the-wildfire-dataset
 
 | ID | Class Name                         |
 | -- | ---------------------------------- |
